@@ -1,0 +1,17 @@
+{
+  "name": "ouisrc",
+  "version": "1.0.0",
+  "description": "https://ouisrc.xyz",
+  "repository": "https://github.com/ouisrc/https-ouisrc.xyz.git",
+  "license": "Apache-2.0",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-alpha.44",
+    "@vuepress/plugin-pwa": "^1.0.0-alpha.44",
+    "vuepress-plugin-baidu-autopush": "1.0.1",
+    "vuepress": "^1.0.0-alpha.44"
+  }
+}
