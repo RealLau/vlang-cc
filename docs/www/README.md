@@ -14,7 +14,7 @@
 * [Vlang中文Github](https://github.com/vlang-cc)
 * **Vlang中文QQ群:550177672**
 
-## Rust语言
+## V语言
 
 ## 博客
 
