@@ -1,4 +1,4 @@
-exports.vlang = (title) => {
+exports.blog = (title) => {
     return [
         ''
     ]
