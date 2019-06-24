@@ -1,4 +1,4 @@
-# Vlnag中文 [![matrix](https://about.riot.im/images/favicon-32.png)](https://riot.im/app/#/room/#vlang-cc:matrix.org)
+# Vlnag中文 [![Build Status](https://dev.azure.com/kriry0841/vlang-cc/_apis/build/status/vlang-cc.vlang-cc?branchName=master)](https://dev.azure.com/kriry0841/vlang-cc/_build/latest?definitionId=1&branchName=master) [![matrix](https://about.riot.im/images/favicon-32.png)](https://riot.im/app/#/room/#vlang-cc:matrix.org)
 
 ## Vlnag中文网络
 
