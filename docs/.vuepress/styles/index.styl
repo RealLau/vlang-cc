@@ -2,12 +2,8 @@
     display: none;
 }
 
-ul, ol, li {
-    list-style: none;
-}
-
-.navbar, .links, .nav-links, .front, #blog {
-    background: linear-gradient(315deg, #2196F3 0%, #2196F3 100%);
+.navbar, .links, .nav-links, button, .front, #news {
+    background: linear-gradient(315deg, #ecf0f0 0%, #ecf0f0 100%);
     border: none;
 }
 
@@ -25,15 +21,39 @@ ul, ol, li {
 
 //------------------------home------------------------
 .front {
-    max-height: 688px;
+    margin-top: 2rem;
+    max-height: 600px;
 }
 
 .home .hero {
-    color: #7B463D !important;
+    color: #5482a8 !important;
 }
-.home .description {
-    color: #7B463D !important;
+// .home .description {
+//     color: #8dc4f1 !important;
+// }
+
+.home .topic {
+    padding: 0.5rem 2.2rem;
+    border-radius: 5%; 
+    height 3.3rem;
 }
+
+.home .topic a {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #7B463D;
+}
+
+.home #join, #news {
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+}
+.home #news a {
+    font-weight: bold;
+    color: #7B463D;
+}
+
 //---------------------docs----------------------------------
 
 ::-webkit-scrollbar {
@@ -49,43 +69,21 @@ ul, ol, li {
     background-color: #8AC3421;
 }
 
-//---------------------blog----------------------------
-#blog {
-    width: 100%;
-    height: 11rem;
-    text-align: center;
-}
-#blog #word {
-    font-size: 3rem;
-    font-weight: bold;
-    color: #7B463D;
-    padding: 4rem 0;
-    line-height: 3.3rem; 
-}
-
-#home-list img, p img {
-    width: 1.4rem;
-    height: 1.4rem; 
-    vertical-align: middle;
-}
-
 @media (max-width: 420px) {
     .front {
-        max-height: 544px;
+        max-height: 533px;
     }
     .content div[class*="language-"] {
         margin: 0.2rem;
     }
 }
-@media (min-width: 420px) and (max-width: 768px) {
+@media (min-width: 420px) and (max-width: 607px) {
     .front {
         max-height: 700px;
     }
 }  
-
-@media (max-width: 460px) {
-    #blog #word {
-        padding: 3rem 0;
-        line-height: 3.3rem; 
+@media (min-width: 608px) and (max-width: 768px) {
+    .front {
+        max-height: 666px;
     }
 }

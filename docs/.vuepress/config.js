@@ -1,7 +1,9 @@
+let { vlang } = require ('./category/vlang.js')
+
 module.exports = {
     extend: '@vuepress/theme-default',
     title: 'Vlang中文',
-    description: 'Vlang中文',
+    description: '互助V语言爱好者,致力于V编程语言中文生态网络',
     head: [
       ['link', { rel: 'icon', href: `/favicon.ico` }],
       ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -34,6 +36,9 @@ module.exports = {
           { text: '论坛', link: 'http://ouisrc.xyz/a/community/vlang' },
           { text: '聊天室', link: 'https://riot.im/app/#/room/#vlang-cc:matrix.org' }
         ]
+    },
+    sidebar: {
+      '/doc/': vlang('Vlang')
     }
 }
 

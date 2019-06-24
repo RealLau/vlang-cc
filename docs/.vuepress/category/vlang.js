@@ -1,0 +1,5 @@
+exports.vlang = (title) => {
+    return [
+        ''
+    ]
+}
