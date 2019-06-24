@@ -1,17 +1,17 @@
-# Vlnag中文 [![Build Status](https://dev.azure.com/kriry0841/vlang-cc/_apis/build/status/vlang-cc.vlang-cc?branchName=master)](https://dev.azure.com/kriry0841/vlang-cc/_build/latest?definitionId=1&branchName=master) [![matrix](https://about.riot.im/images/favicon-32.png)](https://riot.im/app/#/room/#vlang-cc:matrix.org)
+# Vlang中文 [![Build Status](https://dev.azure.com/kriry0841/vlang-cc/_apis/build/status/vlang-cc.vlang-cc?branchName=master)](https://dev.azure.com/kriry0841/vlang-cc/_build/latest?definitionId=1&branchName=master) [![matrix](https://about.riot.im/images/favicon-32.png)](https://riot.im/app/#/room/#vlang-cc:matrix.org)
 
-## Vlnag中文网络
+## Vlang中文网络
 
-> [欢迎加入](https://github.com/vlang-cc/Important/issues/1)Vlnag中文,共建Vlnag中文网络！
+> [欢迎加入](https://github.com/vlang-cc/Important/issues/1)Vlnag中文,共建Vlang中文网络！
 
-- [Vlnag中文论坛](http://ouisrc.xyz/a/community/vlang)
-- [Vlnag中文聊天室](https://riot.im/app/#/room/#vlang-cc:matrix.org)
-- **Vlnag中文QQ群: 550177672**
+- [Vlang中文论坛](http://ouisrc.xyz/a/community/vlang)
+- [Vlang中文聊天室](https://riot.im/app/#/room/#vlang-cc:matrix.org)
+- **Vlang中文QQ群: 550177672**
 
 
-## 二、参与 Vlnag中文 网站建设
+## 参与 Vlang中文 网站建设
 
-> 因为本仓库的修改会自动发布到 Vlnag中文 网站，请参与时遵循以下步骤，并确保构建为成功状态。
+> 因为本仓库的修改会自动发布到 Vlang中文 网站，请参与时遵循以下步骤，并确保构建为成功状态。
 
 ### A. 参与文档
 
