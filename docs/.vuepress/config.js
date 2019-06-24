@@ -1,4 +1,5 @@
 let { vlang } = require ('./category/vlang.js')
+let { blog } = require ('./category/blog.js')
 
 module.exports = {
     extend: '@vuepress/theme-default',
