@@ -32,7 +32,7 @@ module.exports = {
         },
         searchMaxSuggestions: 11,
         nav: [
-          { text: '文档', link: '/blog/' },
+          { text: '博客', link: '/blog/' },
           { text: '文档', link: '/doc/' },
           { text: '网络', link: '/www/' },
           { text: '论坛', link: 'http://ouisrc.xyz/a/community/vlang' },
